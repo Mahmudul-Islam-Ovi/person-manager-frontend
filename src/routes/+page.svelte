@@ -1,7 +1,7 @@
 <script>
   import { onMount } from "svelte";
   import { goto } from "$app/navigation";
-  import toast from "svelte-french-toast";
+  import { toast } from "svelte-toastify";
   import { getPersons, deletePerson } from "$lib/api";
 
   let persons = [];
