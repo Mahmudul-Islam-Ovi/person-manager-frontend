@@ -46,6 +46,6 @@
 		"svelte"
 	],
 	"dependencies": {
-		"svelte-toastify": "^0.0.27"
+		"svelte-sonner": "^1.0.5"
 	}
 }

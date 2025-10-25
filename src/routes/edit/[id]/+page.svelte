@@ -1,6 +1,6 @@
 <script>
   import { page } from "$app/stores";
-  import { toast } from "svelte-toastify";
+  import { toast } from "svelte-sonner";
   import { goto } from "$app/navigation";
   import { updatePerson } from "$lib/api";
 

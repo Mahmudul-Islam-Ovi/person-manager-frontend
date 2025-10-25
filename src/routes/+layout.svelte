@@ -20,7 +20,7 @@
 </style> -->
 
 <script>
-  import { Toaster } from "svelte-toastify";
+  import { Toaster } from "svelte-sonner";
 </script>
 
 <Toaster

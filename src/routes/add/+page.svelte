@@ -1,6 +1,6 @@
 <script>
   import { goto } from "$app/navigation";
-  import { toast } from "svelte-toastify";
+  import { toast } from "svelte-sonner";
   import { createPerson } from "$lib/api";
 
   let name = "";
