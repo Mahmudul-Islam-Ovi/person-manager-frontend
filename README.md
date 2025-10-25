@@ -6,7 +6,7 @@ SvelteKit app for managing persons, integrating with the backend API.
 
 1. Clone the repo: `git clone <repo-url> person-manager-frontend`
 2. Install dependencies: `npm install`
-3. Copy `.env.example` to `.env` and set VITE_API_URL to your backend URL.
+3. Copy `.env` and set VITE_API_URL to your backend URL.
 4. Run dev server: `npm run dev` (opens at http://localhost:5173)
 5. Build for production: `npm run build`
 
